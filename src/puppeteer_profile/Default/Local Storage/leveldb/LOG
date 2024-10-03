@@ -1,0 +1,17 @@
+2024/09/22-20:39:08.599 3f94 Reusing MANIFEST D:\traffic\traffic\src\puppeteer_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2024/09/22-20:39:08.609 3f94 Recovering log #28
+2024/09/22-20:39:08.616 3f94 Reusing old log D:\traffic\traffic\src\puppeteer_profile\Default\Local Storage\leveldb/000028.log 
+2024/09/22-20:40:42.009 4570 Level-0 table #32: started
+2024/09/22-20:40:42.020 4570 Level-0 table #32: 11453 bytes OK
+2024/09/22-20:40:42.025 4570 Delete type=0 #28
+2024/09/22-20:40:42.027 4570 Compacting 4@0 + 1@1 files
+2024/09/22-20:40:42.042 4570 Generated table #33@0: 116 keys, 42699 bytes
+2024/09/22-20:40:42.042 4570 Compacted 4@0 + 1@1 files => 42699 bytes
+2024/09/22-20:40:42.044 4570 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/22-20:40:42.047 4570 Delete type=2 #20
+2024/09/22-20:40:42.048 4570 Delete type=2 #22
+2024/09/22-20:40:42.048 4570 Delete type=2 #26
+2024/09/22-20:40:42.048 4570 Delete type=2 #29
+2024/09/22-20:40:42.049 4570 Delete type=2 #32
+2024/09/22-20:43:53.029 4570 Level-0 table #35: started
+2024/09/22-20:43:53.034 4570 Level-0 table #35: 16423 bytes OK
